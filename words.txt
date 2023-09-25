@@ -1,0 +1,6 @@
+katt
+hund
+häst
+krokodil
+flodhäst
+Välj ett eget ord! 

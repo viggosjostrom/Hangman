@@ -1,0 +1,14 @@
+C:\Users\viggo\source\repos\Hangman 1\bin\Debug\net7.0\Hangman 1.exe
+C:\Users\viggo\source\repos\Hangman 1\bin\Debug\net7.0\Hangman 1.deps.json
+C:\Users\viggo\source\repos\Hangman 1\bin\Debug\net7.0\Hangman 1.runtimeconfig.json
+C:\Users\viggo\source\repos\Hangman 1\bin\Debug\net7.0\Hangman 1.dll
+C:\Users\viggo\source\repos\Hangman 1\bin\Debug\net7.0\Hangman 1.pdb
+C:\Users\viggo\source\repos\Hangman 1\obj\Debug\net7.0\Hangman 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viggo\source\repos\Hangman 1\obj\Debug\net7.0\Hangman 1.AssemblyInfoInputs.cache
+C:\Users\viggo\source\repos\Hangman 1\obj\Debug\net7.0\Hangman 1.AssemblyInfo.cs
+C:\Users\viggo\source\repos\Hangman 1\obj\Debug\net7.0\Hangman 1.csproj.CoreCompileInputs.cache
+C:\Users\viggo\source\repos\Hangman 1\obj\Debug\net7.0\Hangman 1.dll
+C:\Users\viggo\source\repos\Hangman 1\obj\Debug\net7.0\refint\Hangman 1.dll
+C:\Users\viggo\source\repos\Hangman 1\obj\Debug\net7.0\Hangman 1.pdb
+C:\Users\viggo\source\repos\Hangman 1\obj\Debug\net7.0\Hangman 1.genruntimeconfig.cache
+C:\Users\viggo\source\repos\Hangman 1\obj\Debug\net7.0\ref\Hangman 1.dll
